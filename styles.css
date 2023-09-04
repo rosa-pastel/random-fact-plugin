@@ -1,0 +1,13 @@
+body {
+  width: 250px;
+  min-height: 180px;
+  background-size: cover;
+  position: relative;
+  margin: 20px;
+  background-color: rgb(255, 193, 85);
+}
+h1 {
+  font-family: monospace;
+  font-weight: normal;
+  font-size: 18px;
+}
